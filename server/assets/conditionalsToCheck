@@ -1,0 +1,26 @@
+TYPE
+CLASS
+p.classCount.[class]
+p.colorCount.[color]
+reduction
+chainPosition
+chainPosition
+percHP
+semlaCounter
+healCounter
+actions ==> sourceSlot
+
+
+CrunchUtils
+
+
+
+Methods: 
+atk
+hp
+rcv
+hitAtk
+hitModifiers
+chainModifier
+damageSorter
+hitAtk
